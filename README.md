@@ -32,8 +32,6 @@ This course will review the statistical foundations of randomized experiments an
 
 Three hours of lecture and two hours of laboratory per week. 
 
-Written final exam conducted during the scheduled final exam period.
-
 ## Prerequisites
 
 Statistics 134 and Statistics 135 and experience with Software R, or consent of instructor.
