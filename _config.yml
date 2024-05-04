@@ -15,8 +15,8 @@
 # in the templates via \{\{ site.myvariable \}\}.
 title: "Stat 158:  Experimental Design"
 tagline: Course Overview
-description: This course will review the statistical foundations of randomized experiments and study principles for addressing common setbacks in experimental design and analysis in practice. We will cover the notion of potential outcomes for causal inference and the Fisherian principles for experimentation (randomization, blocking, and replications). We will also cover experiments with complex structures (clustering in units, factorial design, hierarchy in treatments, sequential assignment, etc). We will also address practical complications in experiments, including noncompliance, missing data, and measurement error. This course uses R as its primary computing language; details are determined by the instructor.
-
+description: "This course will review the statistical foundations of randomized experiments and study principles for addressing common setbacks in experimental design and analysis in practice. We will cover the notion of potential outcomes for causal inference and the Fisherian principles for experimentation (randomization, blocking, and replications). We will also cover experiments with complex structures (clustering in units, factorial design, hierarchy in treatments, sequential assignment, etc). We will also address practical complications in experiments, including noncompliance, missing data, and measurement error. This course uses R as its primary computing language; details are determined by the instructor.
+"
 author: SCF
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat158.berkeley.edu'
